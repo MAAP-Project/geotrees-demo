@@ -3,7 +3,7 @@
 Links to the live notebooks-
 
 1. [Biomass Reference Map Production](https://notebooksharing.space/view/d6a5b475c5c4f9700153bc83d0ac984ed410f1aefd69e74b155e4f2939eff9f5#displayOptions=)
-2. [Visualization of Cloud-Optimized Earth Observation Data using Lonboard](https://notebooksharing.space/view/57adff0d506145ffd354c81d854eb6bb97c381b83616f7e35ac3b90159fe5ae0#displayOptions=)
+2. [Visualization of Cloud-Optimized Earth Observation Data using Lonboard](https://notebooksharing.space/view/1d29aedacbc625447e9c3fc94b534f4ba79ac52554921d40d6043df607b3e12c#displayOptions=)
 3. [Validation of Meta canopy height over Barro Colorado Island, Panama](https://notebooksharing.space/view/cdfffc8e5431231a1c9a1ad2ada11695458df3b8f0022a07d6fe295a9f75ebfe#displayOptions=)
 
 This tutorial is divided into three scripts based on types of data used for processing as follows-
