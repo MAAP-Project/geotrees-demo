@@ -16,6 +16,7 @@ dependencies:
   - palettable
   - lonboard
   - boto3
+  - fiona
   - pip
   - pip:
       - jupyterlab_widgets
