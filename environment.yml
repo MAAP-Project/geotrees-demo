@@ -1,0 +1,25 @@
+name: cloud-optimized-lidar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - geopandas
+  - pdal
+  - python-pdal
+  - laspy
+  - ipyleaflet
+  - palettable
+  - lonboard
+  - boto3
+  - fiona
+  - pip
+  - pip:
+      - jupyterlab_widgets
+      - titiler
+      - earthaccess
+      - pyarrow
