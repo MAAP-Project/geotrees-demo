@@ -15,6 +15,12 @@ This tutorial is divided into three scripts based on types of data used for proc
 
 <br />
 
+Before sharing the notebook on notebooksharing.space and after your working notebook is ready, run the below command to create an executed notebook to save the renderings. 
+
+```
+jupyter nbconvert Thailand_GEDI_Vis.ipynb --to notebook --execute --inplace --ExecutePreprocessor.kernel_name=python3 --ExecutePreprocessor.store_widget_state=True
+```
+
 ## Documentation Provided
 - README
 - LICENSE
