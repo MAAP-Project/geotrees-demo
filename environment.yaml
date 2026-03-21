@@ -1,0 +1,40 @@
+name: pdal-env
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.11
+
+  # Notebook / Jupyter
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - ipywidgets
+
+  # Core scientific python
+  - numpy
+  - pandas
+  - pyarrow
+  - matplotlib
+
+  # HTTP / utilities
+  - httpx
+  - requests
+
+  # Geospatial stack
+  - geopandas
+  - shapely
+  - pyproj
+  - fiona
+  - gdal
+  - rasterio
+  - rioxarray
+  - xarray
+
+  # Visualization
+  - lonboard
+  - palettable
+
+  # Point cloud / LiDAR
+  - pdal
+  - python-pdal
